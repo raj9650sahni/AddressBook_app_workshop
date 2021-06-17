@@ -1,0 +1,22 @@
+{
+  "AddressBookDB": [
+    {
+      "_fullName": "Rupesh",
+      "_address": "Rz -E-53 Nihal Vihar Nangloi",
+      "_phoneNumber": "7370910417",
+      "_city": "",
+      "_state": "Delhi",
+      "_zip": "110041",
+      "id": 2
+    },
+    {
+      "_fullName": "Amit Verma",
+      "_address": "RZ K-2/47 Nihal Viahr new delhi\nNangloi",
+      "_phoneNumber": "9911718189",
+      "_city": "Mangalore",
+      "_state": "Delhi",
+      "_zip": "110041",
+      "id": 3
+    }
+  ]
+}
